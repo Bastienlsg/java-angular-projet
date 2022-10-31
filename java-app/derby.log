@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Oct 31 14:44:57 CET 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0184-2e49-bf46-00000159d3d8 
+on database directory memory:C:\Users\basti\Desktop\java-angular-projet\java-angular-projet\java-app\019eb186-9dfc-4048-9fc6-723750c3751e with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4d7e1886 
+Loaded from file:/C:/Users/basti/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=19.0.1+10-21
+user.dir=C:\Users\basti\Desktop\java-angular-projet\java-angular-projet\java-app
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
